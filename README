@@ -1,0 +1,26 @@
+We would like to be able to read in the CVS input file data.csv and from it gather a unique list of the teams, and a list of the players on each team.
+Once you have read in the data and divided it into the teams, print out a each team followed by the names of the players on that team.
+
+Please use object oriented design if possible when writing your solution.
+
+the resulting printout should look something like this:
+
+Dragons
+   Miles Baker
+   Joshua Montross
+   Sean Rose
+   Kat O'Malley
+Samurais
+   Jay Baker
+   Greg Laporta
+   Carol Baker
+Lakers
+   Jaime Martin
+   Ashley Ralph
+Tigers
+   Colin Van Dyke
+   Ben Jones
+   Kris Baker
+   Michael Rosenow
+   Charles Saftner
+
